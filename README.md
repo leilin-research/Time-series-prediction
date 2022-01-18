@@ -50,3 +50,4 @@ $ python run_test.py
 - https://github.com/microsoft/forecasting
 - https://github.com/jdb78/pytorch-forecasting
 - https://github.com/timeseriesAI/tsai
+- https://github.com/tinkoff-ai/etna
